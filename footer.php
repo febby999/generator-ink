@@ -1,0 +1,1 @@
+<center><div style="padding-top:10px; clear:both;"><hr>Powered by <a href="https://www.tuyulmania.com/" target="_blank">Tuyul Mania</a> | Developer of <a href="https://mightyfaucet.com/" target="_blank">PT. Mighty Faucet</a> | <a href="mailto:mightyfaucet@gmail.com" target="_top">Contact Us</a></div>
